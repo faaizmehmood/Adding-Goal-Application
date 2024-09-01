@@ -8,7 +8,4 @@
     "vscode_vibrancy.imports": [
         "/path/to/file"
     ],
-    "workbench.colorCustomizations": {
-        "titleBar.inactiveForeground": "#e7e7e799",
-    },
 }
